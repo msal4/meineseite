@@ -1,0 +1,4 @@
+baseURL = 'https://sarray.de/'
+languageCode = 'en-us'
+title = "Salman's Webseite"
+theme = 'schlicht'
