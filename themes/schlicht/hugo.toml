@@ -20,7 +20,7 @@ title = 'My New Hugo Site'
 
   [[menus.main]]
     name = 'About'
-    pageRef = '/about'
+    pageRef = '/about/'
     weight = 30
 
 [module]
