@@ -3,17 +3,17 @@
 }
 
 :root {
-	--bg-color: #1A1C1A; /* Very dark gray with a hint of green */
-	--text-color: #E0E0E0; /* Soft off-white */
-	--disabled-color: #777777; /* Neutral mid-gray */
-	--primary-color: #6A9955; /* Muted forest green */
-	--image-border-color: #444444; /* Darker, less prominent border for images */
+	--bg-color: #1A1C1A; /* dark gray with a hint of green */
+	--text-color: #E0E0E0; /* soft off-white */
+	--disabled-color: #777777; /* neutral mid-gray */
+	--primary-color: #6A9955; /* muted forest green */
+	--image-border-color: #444444; /* darker, less prominent border for images */
 
 	scrollbar-gutter: stable;
 }
 
 body {
-	font-family: "Space Grotesk", sans-serif;
+	font-family: Georgia, serif;
 	font-optical-sizing: auto;
 	line-height: 1.5;
 	margin: auto;
@@ -70,8 +70,3 @@ ul.menu > li > a.active {
 	font-weight: 600;
 }
 
-
-p {
-	font-family: "DM Sans", serif;
-	font-optical-sizing: auto;
-}
