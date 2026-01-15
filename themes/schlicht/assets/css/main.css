@@ -67,6 +67,7 @@ ul.menu li {
 
 ul.menu > li > a.active {
 	color: var(--primary-color);
-	font-weight: 600;
+	text-decoration: underline;
+	text-underline-offset: 5px;
 }
 
