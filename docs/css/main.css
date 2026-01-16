@@ -25,7 +25,20 @@ body {
 	& > #container {
 		margin: 1rem;
 		padding: 0 1rem 0 1rem;
-	}}
+		border: 1px dashed var(--disabled-color);
+		border-radius: 5px;
+	}
+}
+
+@media (max-width: 768px) {
+	body > #container {
+		margin: 0;
+		padding: 0;
+		border: none;
+		border-radius: 0;
+	}
+
+}
 
 img {
 	max-width: 100%;
@@ -67,5 +80,4 @@ ul.menu > li > a.active {
 	text-decoration: underline;
 	text-underline-offset: 5px;
 }
-
 
