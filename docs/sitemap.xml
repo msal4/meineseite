@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://sarray.de/about/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sarray.de/blog/161025_mein_erster_blogpost/</loc>
+    <lastmod>2025-10-16T21:11:48+02:00</lastmod>
+  </url><url>
+    <loc>https://sarray.de/blog/</loc>
+    <lastmod>2023-01-01T08:30:00-07:00</lastmod>
+  </url><url>
+    <loc>https://sarray.de/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://sarray.de/categories/</loc>
+  </url><url>
+    <loc>https://sarray.de/tags/</loc>
+  </url>
+</urlset>
