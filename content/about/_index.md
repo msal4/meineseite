@@ -4,7 +4,7 @@ draft = false
 title = 'About'
 +++
 
-![Your Photo](me.jpg "My Photo")
+![My Photo](me.jpg "My Photo")
 
 I'm a seasoned Software Engineer with a passion for building robust full-stack solutions. My expertise spans development, DevOps, system design, and cloud architecture, with a focus on logic, stability, and performance.
 

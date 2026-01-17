@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Articles on Salman&#39;s Webseite</title>
-    <link>https://sarray.de/blog/</link>
-    <description>Recent content in Articles on Salman&#39;s Webseite</description>
+    <title>Articles on Salman&#39;s Corner</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Articles on Salman&#39;s Corner</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Jan 2026 01:59:00 +0200</lastBuildDate>
-    <atom:link href="https://sarray.de/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My first post</title>
-      <link>https://sarray.de/blog/161025_mein_erster_blogpost/</link>
+      <link>http://localhost:1313/blog/161025_mein_erster_blogpost/</link>
       <pubDate>Fri, 16 Jan 2026 01:59:00 +0200</pubDate>
-      <guid>https://sarray.de/blog/161025_mein_erster_blogpost/</guid>
+      <guid>http://localhost:1313/blog/161025_mein_erster_blogpost/</guid>
       <description>&lt;p&gt;Heyo, and welcome to my little corner of the internet. This is the first post on my personal site, a place for me to share my thoughts and projects.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m hoping to post here regularly. You can expect to see a mix of topics, from deep dives into software development and the tech I&amp;rsquo;m currently using, to my adventures in the great outdoors.&lt;/p&gt;&#xA;&lt;p&gt;Stay tuned for more!&lt;/p&gt;</description>
     </item>
   </channel>

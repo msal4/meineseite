@@ -1,5 +1,5 @@
 baseURL = 'https://sarray.de/'
 languageCode = 'en-us'
-title = "Salman's Webseite"
+title = "Salman's Corner"
 theme = 'schlicht'
 publishDir = 'docs'
