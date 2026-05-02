@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Salman&#39;s Corner</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://sarray.de/blog/</link>
     <description>Recent content in Articles on Salman&#39;s Corner</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Jan 2026 01:59:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Jan 2026 13:55:49 +0100</lastBuildDate>
+    <atom:link href="https://sarray.de/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JavaScript Memory Leaks: Common Causes and Solutions</title>
+      <link>https://sarray.de/blog/260117_javascript_memory_leaks/</link>
+      <pubDate>Sat, 17 Jan 2026 13:55:49 +0100</pubDate>
+      <guid>https://sarray.de/blog/260117_javascript_memory_leaks/</guid>
+      <description>&lt;p&gt;JavaScript memory leaks can significantly impact the performance of web applications, leading to sluggishness and even crashes. In this post, we&amp;rsquo;ll explore what they are, common causes, and how to avoid them.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-a-memory-leak&#34;&gt;What is a Memory Leak?&lt;/h2&gt;&#xA;&lt;p&gt;A memory leak occurs when pieces of memory that are no longer needed by the application are not returned to the pool of free memory. In JavaScript, this usually means that objects are still being referenced somewhere, preventing the Garbage Collector (GC) from cleaning them up.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My first post</title>
-      <link>http://localhost:1313/blog/161025_mein_erster_blogpost/</link>
+      <link>https://sarray.de/blog/161025_mein_erster_blogpost/</link>
       <pubDate>Fri, 16 Jan 2026 01:59:00 +0200</pubDate>
-      <guid>http://localhost:1313/blog/161025_mein_erster_blogpost/</guid>
+      <guid>https://sarray.de/blog/161025_mein_erster_blogpost/</guid>
       <description>&lt;p&gt;Heyo, and welcome to my little corner of the internet. This is the first post on my personal site, a place for me to share my thoughts and projects.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m hoping to post here regularly. You can expect to see a mix of topics, from deep dives into software development and the tech I&amp;rsquo;m currently using, to my adventures in the great outdoors.&lt;/p&gt;&#xA;&lt;p&gt;Stay tuned for more!&lt;/p&gt;</description>
     </item>
   </channel>
