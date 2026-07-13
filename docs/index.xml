@@ -1,19 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Home on Salman&#39;s Corner</title>
-    <link>https://sarray.de/</link>
-    <description>Recent content in Home on Salman&#39;s Corner</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 02 May 2026 22:29:00 +0200</lastBuildDate>
-    <atom:link href="https://sarray.de/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Kernel Hacking: A journey begins</title>
-      <link>https://sarray.de/blog/new_journey_os_development/</link>
-      <pubDate>Sat, 02 May 2026 22:29:00 +0200</pubDate>
-      <guid>https://sarray.de/blog/new_journey_os_development/</guid>
-      <description>&lt;p&gt;I realized lately that I have stopped posting blogs for some time. After landing my first job at an ISP company back in my home country of Iraq, I had stopped writing technical articles. My first and last articles: &amp;ldquo;How to build a news app in react native&amp;rdquo; and &amp;ldquo;How to bring a little asynchronous programming to Dart with futures&amp;rdquo; date back to around 2018. These articles are 8+ years old, reading them now I can only feel a bit of pride and cringe at the same time. I wrote them when I was ~20 years old. At that time I had no real professional experience in the field. As you can sense the inexperience in the writing and explaining of the topics chosen. So 8 years later, I&amp;rsquo;ve decided to delve into a different topic in the programming world&amp;hellip; OS Development. A lot has changed since my last articles, and since its unfamiliar territory I would like to document some of it along the way.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sarray Solutions</title><link>https://sarray.de/</link><description>Recent content on Sarray Solutions</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 13 Jul 2026 00:00:00 +0200</lastBuildDate><atom:link href="https://sarray.de/index.xml" rel="self" type="application/rss+xml"/><item><title>Datenschutzerklärung</title><link>https://sarray.de/datenschutz/</link><pubDate>Mon, 13 Jul 2026 00:00:00 +0200</pubDate><guid>https://sarray.de/datenschutz/</guid><description>&lt;h2 id="verantwortlicher"&gt;Verantwortlicher&lt;/h2&gt;
+&lt;p&gt;Salman Sarray
+Arnimstr. 17
+81369 München
+Deutschland
+E-Mail: 
+&lt;a href="mailto:info@sarray.de"&gt;info@sarray.de&lt;/a&gt;
+&lt;/p&gt;
+&lt;h2 id="hosting"&gt;Hosting&lt;/h2&gt;
+&lt;p&gt;Diese Website wird über GitHub Pages gehostet. Beim Aufruf der Seite erfasst der Hosting-Anbieter automatisch technische Zugriffsdaten (Server-Logs), etwa IP-Adresse, Datum und Uhrzeit des Zugriffs sowie den abgerufenen Inhalt. Diese Daten dienen der technischen Bereitstellung und Absicherung der Website (Art. 6 Abs. 1 lit. f DSGVO).&lt;/p&gt;
+&lt;h2 id="kontaktformular"&gt;Kontaktformular&lt;/h2&gt;
+&lt;p&gt;Wenn du das Kontaktformular nutzt, werden die von dir eingegebenen Daten (Name, E-Mail-Adresse, und weitere Angaben im Formular) zur Bearbeitung deiner Anfrage über den Dienst Formspree, Inc. verarbeitet. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO (Anbahnung eines Vertragsverhältnisses) bzw. lit. f DSGVO (berechtigtes Interesse an der Beantwortung von Anfragen). Details zur Verarbeitung durch Formspree findest du in deren Datenschutzerklärung: 
+&lt;a href="https://formspree.io/legal/privacy-policy" rel="noopener" target="_blank"&gt;https://formspree.io/legal/privacy-policy&lt;/a&gt;
+.&lt;/p&gt;</description></item><item><title>Impressum</title><link>https://sarray.de/impressum/</link><pubDate>Mon, 13 Jul 2026 00:00:00 +0200</pubDate><guid>https://sarray.de/impressum/</guid><description>&lt;h2 id="angaben-gemäß--5-ddg"&gt;Angaben gemäß § 5 DDG&lt;/h2&gt;
+&lt;p&gt;Salman Sarray
+Arnimstr. 17
+81369 München
+Deutschland&lt;/p&gt;
+&lt;h2 id="kontakt"&gt;Kontakt&lt;/h2&gt;
+&lt;p&gt;E-Mail: 
+&lt;a href="mailto:info@sarray.de"&gt;info@sarray.de&lt;/a&gt;
+
+Telefon: +49 152 36968148&lt;/p&gt;
+&lt;h2 id="verantwortlich-für-den-inhalt-nach--18-abs-2-mstv"&gt;Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV&lt;/h2&gt;
+&lt;p&gt;Salman Sarray, Anschrift wie oben.&lt;/p&gt;
+&lt;h2 id="eu-streitschlichtung"&gt;EU-Streitschlichtung&lt;/h2&gt;
+&lt;p&gt;Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: 
+&lt;a href="https://ec.europa.eu/consumers/odr/" rel="noopener" target="_blank"&gt;https://ec.europa.eu/consumers/odr/&lt;/a&gt;
+. Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.&lt;/p&gt;</description></item><item><title>Contact</title><link>https://sarray.de/contact/</link><pubDate>Sun, 12 Jul 2026 12:00:00 +0200</pubDate><guid>https://sarray.de/contact/</guid><description>&lt;p&gt;Tell me what&amp;rsquo;s slow, and I&amp;rsquo;ll get back to you within a day.&lt;/p&gt;</description></item><item><title>Kernel Hacking: A journey begins</title><link>https://sarray.de/blog/new_journey_os_development/</link><pubDate>Sat, 02 May 2026 22:29:00 +0200</pubDate><guid>https://sarray.de/blog/new_journey_os_development/</guid><description>&lt;p&gt;I realized lately that I have stopped posting blogs for some time. After landing my first job at an ISP company back in my home country of Iraq, I had stopped writing technical articles. My first and last articles: &amp;ldquo;How to build a news app in react native&amp;rdquo; and &amp;ldquo;How to bring a little asynchronous programming to Dart with futures&amp;rdquo; date back to around 2018. These articles are 8+ years old, reading them now I can only feel a bit of pride and cringe at the same time. I wrote them when I was ~20 years old. At that time I had no real professional experience in the field. As you can sense the inexperience in the writing and explaining of the topics chosen. So 8 years later, I&amp;rsquo;ve decided to delve into a different topic in the programming world&amp;hellip; OS Development. A lot has changed since my last articles, and since its unfamiliar territory I would like to document some of it along the way.&lt;/p&gt;</description></item></channel></rss>

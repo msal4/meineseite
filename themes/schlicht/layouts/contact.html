@@ -1,0 +1,27 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  <form class="contact-form" action="https://formspree.io/f/xeeyjdow" method="POST">
+    <label for="name">Name</label>
+    <input type="text" id="name" name="name" required>
+
+    <label for="email">Email</label>
+    <input type="email" id="email" name="email" required>
+
+    <label for="company">Company</label>
+    <input type="text" id="company" name="company">
+
+    <label for="problem">What's slow?</label>
+    <textarea id="problem" name="problem" rows="5" required></textarea>
+
+    <label for="urgency">Timeline</label>
+    <select id="urgency" name="urgency">
+      <option value="Production issue, need help now">Production issue, need help now</option>
+      <option value="Planning ahead">Planning ahead</option>
+      <option value="Just exploring">Just exploring</option>
+    </select>
+
+    <button type="submit">Send</button>
+  </form>
+  <p>Prefer email? Reach me directly at <a href="mailto:hi@sarray.de">hi@sarray.de</a>.</p>
+{{ end }}

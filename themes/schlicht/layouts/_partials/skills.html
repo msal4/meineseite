@@ -1,0 +1,31 @@
+{{- $skills := slice
+  (dict
+    "title" "Mobile Development"
+    "desc" "Cross-platform apps with Flutter and React Native, profiled and tuned for smooth frame rates and fast startup."
+    "art" "┌────────┐\n│┌──────┐│\n││      ││\n││      ││\n││      ││\n│└──────┘│\n│   ●    │\n└────────┘"
+  )
+  (dict
+    "title" "Low-Level Programming (Embedded Systems)"
+    "desc" "Systems programming, embedded/OS internals, and sensor/hardware interfacing, tuned for tight power and memory budgets."
+    "art" "  ______________\n =|            |=\n =|  ┌──────┐  |=\n =|  │ MCU  │  |=\n =|  └──────┘  |=\n =|____________|=\n  | | | |  | | |"
+  )
+  (dict
+    "title" "DevOps & Site Reliability"
+    "desc" "Cloud architecture sized and tuned for low latency, stability, and cost efficiency under real load."
+    "art" "┌────────────┐\n│ ■ ■ ■    ● │\n├────────────┤\n│ ■ ■ ■    ● │\n├────────────┤\n│ ■ ■ ■    ● │\n└────────────┘"
+  )
+  (dict
+    "title" "Web/Backend Development"
+    "desc" "Full-stack and backend APIs profiled and optimized to stay fast as data and traffic grow."
+    "art" "┌────────────┐\n│ ● ● ●      │\n├────────────┤\n│    </>     │\n│            │\n└────────────┘"
+  )
+}}
+<section class="skills">
+  {{ range $skills }}
+    <div class="skill">
+      <pre class="ascii-art">{{ .art }}</pre>
+      <h3>{{ .title }}</h3>
+      <p>{{ .desc }}</p>
+    </div>
+  {{ end }}
+</section>
