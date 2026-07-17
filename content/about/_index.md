@@ -2,6 +2,7 @@
 date = '2026-01-11T22:36:18+01:00'
 draft = false
 title = 'About'
+description = "Salman Sarray, a Munich-based Software Engineer with over a decade of experience finding and fixing performance bottlenecks across mobile, embedded, cloud, and backend systems."
 +++
 
 I'm Salman Sarray, a Software Engineer based in Munich, Germany, with over a decade of experience building robust, fast full-stack solutions.

@@ -3,6 +3,8 @@ title = 'Sarray Solutions'
 date = 2023-01-01T08:00:00-07:00
 draft = false
 
+description = "Salman Sarray is a Performance Engineering Consultant based in Munich, Germany, finding and fixing what makes software slow across mobile, embedded, cloud, and backend systems."
+
 [params]
   subtitle = 'Performance Engineering Consultant'
 +++

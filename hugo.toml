@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = 'Sarray Solutions'
 theme = 'schlicht'
 publishDir = 'docs'
+enableRobotsTXT = true
+
+[params]
+  description = "Salman Sarray is a Performance Engineering Consultant based in Munich, Germany."
 
 [menus]
   [[menus.main]]

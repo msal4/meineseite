@@ -3,6 +3,7 @@ title = 'Impressum'
 date = '2026-07-13T00:00:00+02:00'
 draft = false
 layout = 'legal'
+description = "Impressum für sarray.de."
 +++
 
 ## Angaben gemäß § 5 DDG
