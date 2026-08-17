@@ -7,6 +7,9 @@
 <meta name="description" content="{{ $description }}">
 <link rel="canonical" href="{{ .Permalink }}">
 
+<link rel="icon" href="{{ "favicon.svg" | relURL }}" type="image/svg+xml">
+<link rel="icon" href="{{ "favicon.ico" | relURL }}" sizes="32x32">
+
 <meta property="og:title" content="{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }}{{ end }}">
 <meta property="og:description" content="{{ $description }}">
 <meta property="og:type" content="{{ if and (eq .Section "blog") (eq .Kind "page") }}article{{ else }}website{{ end }}">
