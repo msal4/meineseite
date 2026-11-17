@@ -1,9 +1,10 @@
 baseURL = 'https://sarray.de/'
 languageCode = 'en-us'
-title = 'Sarray Solutions'
+title = 'Salman Sarray'
 theme = 'schlicht'
 publishDir = 'docs'
 enableRobotsTXT = true
+disableKinds = ['taxonomy', 'term']
 
 [params]
   description = "Salman Sarray is a Performance Engineering Consultant based in Munich, Germany."
